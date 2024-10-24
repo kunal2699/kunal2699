@@ -16,7 +16,7 @@ Problem Solver ¯\_(ツ)_/¯ <br>आलस्यम् परमम् धर्
 
 
 ## Summary 📝
-My expertise lies in **Backend**, **Python**, Frontend Development, and C++. I have a strong passion for leveraging Backend practices and tools to streamline software development processes.
+My expertise lies in  **Frontend Development** and **Backend Development**. I have a strong passion for leveraging Backend practices and tools to streamline software development processes.
 <!--
 ## Experience 💼
 
@@ -34,11 +34,10 @@ My expertise lies in **Backend**, **Python**, Frontend Development, and C++. I h
 -->
 ## Skills 🚀
 
-- Go (Programming Language) • Kubernetes • Microservices • Terraform • Amazon Web Services (AWS)
-- C++  • Node.js • JavaScript • CI/CD Pipelines
+- Kubernetes • Docker • Amazon Web Services (AWS) • Flask • Embedded C
+- C++  • Node.js • JavaScript • React.js • Python • Java 
 
-Feel free to reach out to me to discuss any DevOps initiatives or exciting opportunities. I'm always eager to contribute my skills and expertise to drive success in the DevOps space.
-
+Feel free to reach out to me to discuss any Front end, Back end initiatives or exciting opportunities. I'm always eager to contribute my skills and expertise to drive success in the DevOps space.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=kunal2699&show_icons=true" width="400"></td>
@@ -51,9 +50,7 @@ Feel free to reach out to me to discuss any DevOps initiatives or exciting oppor
 <h2 >It ain't much but its honest work</h2>
 <!--
 **kunal2699/kunal2699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
