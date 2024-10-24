@@ -1,4 +1,3 @@
-
 name: Generate Snake Contribution SVG
 on:
   # Schedule updates (At minute 0 past every 12th hour)
