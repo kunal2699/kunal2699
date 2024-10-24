@@ -45,7 +45,6 @@ Feel free to reach out to me to discuss any Front end, Back end initiatives or e
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/kunal2699/kunal2699/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=kunal2699&show_icons=true" width="400"></td>
 
