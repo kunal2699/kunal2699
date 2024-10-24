@@ -39,6 +39,13 @@ My expertise lies in  **Frontend Development** and **Backend Development**. I ha
 
 Feel free to reach out to me to discuss any Front end, Back end initiatives or exciting opportunities. I'm always eager to contribute my skills and expertise to drive success in the DevOps space.
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kunal2699&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/kunal2699/kunal2699/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=kunal2699&show_icons=true" width="400"></td>
 
